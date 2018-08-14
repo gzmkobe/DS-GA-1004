@@ -1,4 +1,4 @@
-# DS-GA 1004 Project Proposal
+# DS-GA 1004 Project
 
 Hetian Bai (hb1500@nyu.edu), Jieyu Wang (jw4937@nyu.edu), Zhiming Guo (zg758@nyu.edu)
 
