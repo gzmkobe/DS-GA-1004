@@ -2,6 +2,7 @@
 
 Hetian Bai (hb1500@nyu.edu), Jieyu Wang (jw4937@nyu.edu), Zhiming Guo (zg758@nyu.edu)
 
+This is a short version of our project description, for further reading, please click *[Property Price](https://nyu.box.com/s/hx7v2mpsw7rkdps6b613tvoiq9a1r448)
 ## Abstract
 
 With the collection of various types of data in spatial and temporal over years, the urban environments in New York City can be represented by these datasets in different categories. To unfold the interesting and hidden relationship among NYC urban data, it is vital to not only consider the relationship between two features within a single dataset, but also the relationships cross many datasets. With a well-designed program, researchers can easily discover relationships between any two features in NYC city datasets. These new findings can possibly help city management, disease control, traffic improvement, etc.
